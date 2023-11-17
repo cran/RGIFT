@@ -1,5 +1,4 @@
 ### R code from vignette source 'RGIFT.Rnw'
-### Encoding: ISO8859-1
 
 ###################################################
 ### code chunk number 1: RGIFT.Rnw:118-120
@@ -57,9 +56,9 @@ GIFTparse("Take care with $, {, } and ~.")
 
 
 ###################################################
-### code chunk number 10: RGIFT.Rnw:287-288
+### code chunk number 10: RGIFT.Rnw:287-288 (eval = FALSE)
 ###################################################
-source(file("UTF8.R", encoding="ISO-8859-1"))
+## source("UTF8.R")
 
 
 ###################################################
