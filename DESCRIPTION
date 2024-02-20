@@ -1,7 +1,7 @@
 Package: RGIFT
-Version: 0.1-6
+Version: 0.1-7
 Encoding: UTF-8
-Date: 2023-11-17
+Date: 2024-02-07
 Title: Create Quizzes in GIFT Format
 Author: María José Haro-Delicado, Virgilio Gómez-Rubio and Francisco 
   Parreńo-Torres
@@ -14,6 +14,6 @@ Description: Implementation of some functions to create quizzes
 License: GPL (>= 2)
 URL: https://docs.moodle.org/21/en/GIFT_format
 NeedsCompilation: no
-Packaged: 2023-11-17 19:53:06 UTC; virgil
+Packaged: 2024-02-20 08:04:27 UTC; virgil
 Repository: CRAN
-Date/Publication: 2023-11-17 20:20:11 UTC
+Date/Publication: 2024-02-20 15:20:02 UTC

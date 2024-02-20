@@ -1,4 +1,4 @@
-47f887c6fff5cc718777eedf0c5d3e12 *DESCRIPTION
+4cc746847b65d206cd85b1eb28101603 *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 29296a0d30104a7c9739bf8640376b31 *R/Description.R
 b0898edf9763ba9524671130a7d22aab *R/Essay.R
@@ -8,11 +8,11 @@ f7c144c32543a234139103c78161ab86 *R/MultipleChoice.R
 1544771ba3f635cc2194420ff37a6577 *R/NumericalQuestions.R
 fc219018d62b6d6f6d8dcda72b3ee996 *R/ShortAnswer.R
 48d9cff513b3123ba3419ce5d0c65c8a *R/TrueFalse.R
-ca3e3b663bfcbdc3cc82c27484e9a834 *R/generic.R
+ff6a99b13408d7b8fe6e24c25a41cd3d *R/generic.R
 725814ea1d1ce93b6137581cd59c595e *build/vignette.rds
 3d9bdb2e99cb9bac127ed9ab8ca6637a *inst/doc/RGIFT.R
 ceaa96d4476093ec40aedd91e95a3b48 *inst/doc/RGIFT.Rnw
-a51d66c83990a8e65f216c889d3d546e *inst/doc/RGIFT.pdf
+f3f1351c4062bf568f1548bb442427b0 *inst/doc/RGIFT.pdf
 b3d1a798a723798be3eade8a9b34f6e2 *man/GIFTD.Rd
 cde644a80cb2067dbce1b777e93435fd *man/GIFTE.Rd
 545c36bf55cfc81c2709bc3ae5acba0f *man/GIFTM.Rd

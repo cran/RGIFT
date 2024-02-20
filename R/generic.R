@@ -20,9 +20,9 @@ GIFTQName<-function(qname)
 
 GIFTparse<-function(txt)
 {
-#Special characters are: ~ / $ { }
+#Special characters are: ~ = # { }
 
-spchar<-c("~", "/", "$", "{", "}") 
+spchar<-c("~", "=", "#", "{", "}") 
 
 for(c in spchar)
 {
